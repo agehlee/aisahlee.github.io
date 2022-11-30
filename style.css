@@ -1,0 +1,19 @@
+.Navbar{
+    background-color: rgb(231, 245, 240);
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: aquamarine;
+}
+#projects{
+    background-color: aquamarine;
+}
+.bg {
+    font-size: 20px;
+    background-color: aqua;
+    text-align: center;
+    color: black;
+}
+.bg  a{
+    color: black;
+}
